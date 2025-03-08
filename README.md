@@ -8,4 +8,6 @@ User can type a `stworz` command. It creates a message with buttons, which repre
 * accepted, what creates event
 * denied, what removes message
 * edited, what changes proposed event information
+
+## Screenshot
 ![image](./pics/01.png)
